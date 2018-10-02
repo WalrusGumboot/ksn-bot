@@ -40,4 +40,4 @@ async def on_ready():
     print('ID: ' + client.user.id)
     print('------')
 
-client.run('NDk2MDI2MTg5MDM1NDcwODQ5.DpKoag.xvXzMHt15uXhrUZRK7e1gN_hRPQ')
+
